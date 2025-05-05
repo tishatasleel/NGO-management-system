@@ -1,4 +1,4 @@
-NGO management system
+NGO management system**
 
 Overview:
 
@@ -31,6 +31,7 @@ Key Features:
 07. Responsive UI/UX
 
 Project structure:
+
 ngo-management-system/
 │
 ├── backend/                     # Node.js + Express + MongoDB
