@@ -1,5 +1,4 @@
 # NGO-management-system
-NGO Management System is a full-stack web app with a React.js admin panel and an Angular public portal for managing volunteers, donations, and events. Built using Node.js, Express, and MongoDB, it uses RESTful APIs for efficient communication and runs locally with a modular, scalable design.
 Overview:
 The NGO Management System is a comprehensive full-stack web application designed to automate and streamline the day-to-day operations of a non-governmental organization (NGO). The system supports both administrative management and public engagement, enabling smooth interaction between donors, volunteers, and NGO administrators. The goal is to modernize how NGOs manage resources, events, volunteers, donations, and beneficiaries using a scalable and secure digital platform.
 
